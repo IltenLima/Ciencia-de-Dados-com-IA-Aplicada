@@ -1,1 +1,1 @@
-# Ciencia-de-Dados-com-IA-Aplicada
+# Ciência de Dados com IA Aplicada
